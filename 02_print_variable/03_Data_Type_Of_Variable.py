@@ -96,3 +96,52 @@ print(type(Laptop_accessories))
 Phone_accessories=("Cable-c-type" , "Adapter","Pin-code" )
 print(Phone_accessories)
 print(type(Phone_accessories))
+
+
+# 7 . Set Data Type
+
+Students_Age={17,18,18,19}
+print(Students_Age)
+print(type(Students_Age))
+
+Car_Model={2008,2009,2005,2002}
+print(Car_Model)
+print(type(Car_Model))
+
+Car_Number_Plate={9990,9999,9998.9997}
+print(Car_Number_Plate)
+print(type(Car_Number_Plate))
+
+# 8 . Dictionary Data Type
+
+student={
+    "Name":"Neev",
+    "Age":18,
+    "Course":"BBA"
+}
+
+print(student)
+
+sir={
+    "Name":"Arjun",
+    "Age":23,
+    "School":"Christ School"
+}
+
+print(sir)
+
+
+Mam={
+    "Name":"Vaidika",
+    "Age":24,
+    "Collage":"SSCCM"
+
+}
+print(Mam)
+
+
+# 9 . None Data Type 
+
+Jayrajsinh=None
+print(Jayrajsinh)
+print(type(Jayrajsinh))
